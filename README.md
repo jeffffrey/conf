@@ -1,4 +1,4 @@
 conf
 ====
 
-Configuration Files
+A collections of development env / infrastructure env configuration files.
